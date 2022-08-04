@@ -64,3 +64,10 @@ password : Face@123
 ### Calender
 
 ![screencapture-localhost-detection-admin-calendar-php-2022-08-04-19_04_57](https://user-images.githubusercontent.com/77239125/182861015-c3d8205d-9db7-4610-8243-913b39d8bf99.png)
+
+#
+
+### Response email got to the client
+![Screenshot 2022-08-04 185109](https://user-images.githubusercontent.com/77239125/182867029-ac22fd2b-bb1e-4274-a919-d010e8a83cb8.png)
+
+
