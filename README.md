@@ -4,7 +4,7 @@
 <b>SQL file</b> available in project in SQL file folder.
 <b>SMTP credentials</b> SMTP credentials are remove because of security purpose that's way email function not work if you provide your SMTP credentials it will work. 
 
-### Admin credentials
+### Admin panel credentials
 email : girish.muley007@gmail.com <br>
 password : Face@123
 
